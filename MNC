@@ -1,4 +1,8 @@
+
 #EXTM3U
+#EXTINF:-1,ZalTV Indonesia
+https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
+
 #EXTINF:-1,MNCTV SD
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
