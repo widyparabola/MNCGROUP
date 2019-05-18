@@ -107,23 +107,6 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1,CELESTIAL MOVIE ID HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1,HBO Family
-http://203.153.218.26:9981/stream/channelid/960201661
-
-#EXTINF:-1,Blue Ant Extreme
-http://203.153.218.26:9981/stream/channelid/120552629
-
-#EXTINF:-1,FOX Family Movies
-http://203.153.218.26:9981/stream/channelid/750664492
-
-#EXTINF:-1,AXN
-http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
-
-#EXTINF:-1,Cinemax
-http://203.153.218.26:9981/stream/channelid/51542457
-
-#EXTINF:-1,Celestial Clasic Movie MY
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 
 #EXTINF:-1,KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
@@ -158,113 +141,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
-#EXTINF:-1,HBO
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-
-#EXTINF:-1,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1,FOX MOVIES COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1,FOX MOVIES
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF:-1,byuTV
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-
-#EXTINF:-1,SHOWTIME HD
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1,MKCHD1
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
-
-#EXTINF:-1,MKCHD2
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-
-#EXTINF:-1,MKC MOVIE 1
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-
-#EXTINF:-1,MKC MOVIE 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,MKC MOVIE 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1,MKC MOVIE 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,MKC MOVIE 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Sony One HD
-http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
-
-#EXTINF:-1,K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1,K-Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1,Arirang South Korea
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1,(ONLINE) TVN KR
-http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
-
-#EXTINF:-1,KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-
-#EXTINF:-1,CHOSUN
-http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-
-#EXTINF:-1,KTV
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-
-#EXTINF:-1,PPTV HD
-http://183.182.100.184/live/pptvthai/index.m3u8
-
-#EXTINF:-1,TV5 HD
-http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
-
-#EXTINF:-1,MCOT HD
-http://183.182.100.184/live/mcothd/index.m3u8
-
-#EXTINF:-1,THAI PBS HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-
-#EXTINF:-1,THAIRATH TV HD
-https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
-
-#EXTINF:-1,NEW TV HD
-http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
-
-#EXTINF:-1,WORKPOINT TV HD
-http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
-
-#EXTINF:-1,TRUE4U HD
-http://183.182.100.184/live/true4u/index.m3u8
-
-#EXTINF:-1,MONO29 HD
-http://183.182.100.184/live/mono29/index.m3u8
-
-#EXTINF:-1,CHANNEL 8 HD
-http://stream.rs.co.th/ch8-hi/index.m3u8
-
-#EXTINF:-1,BRIGHT TV HD
-http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
-
-#EXTINF:-1,MCOT FAMMILY HD
-http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
-
-#EXTINF:-1,CHANNEL 2 HD
-http://stream.rs.co.th/ch2-hi/index.m3u8
-
-#EXTINF:-1,SABAIDEETV HD
-http://stream.rs.co.th/sbd-hi/index.m3u8
 
 #EXTINF:-1,CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
@@ -371,11 +247,6 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 #EXTINF:-1,Hit TV | SD
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
-#EXTINF:-1,BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1,ONE
-http://rtmp.one.by:1300
 
 #EXTINF:-1,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -437,14 +308,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1,CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
-#EXTINF:-1,MKC EDU 1 HD
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 
-#EXTINF:-1,MKC EDU 2HD
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-
-#EXTINF:-1,MKC EDU 3 HD
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
 
 #EXTINF:-1,BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
@@ -581,104 +445,6 @@ http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 #EXTINF:-1,NADA MUSLIM TV
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 
-#EXTINF:-1,CHINA 6 HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-
-#EXTINF:-1,CHINA 7 HD
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-
-#EXTINF:-1,CCTV5+HD
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
-#EXTINF:-1,CHINA 8 HD
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-
-#EXTINF:-1,CHINA 9 HD
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-
-#EXTINF:-1,CCTV 4
-http://rr2.dens.tv/s/s19/index2.m3u8
-
-#EXTINF:-1,CGTN
-http://rr2.dens.tv/s/s20/index2.m3u8
-
-#EXTINF:-1,CHINO
-http://rr2.dens.tv/s/s50/index2.m3u8
-
-#EXTINF:-1,Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-
-#EXTINF:-1,NTV News24
-http://www.news24.jp/livestream/index.m3u8
-
-#EXTINF:-1,Shop Channel
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-#EXTINF:-1,CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-
-#EXTINF:-1,tvb
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-
-#EXTINF:-1,CHINA 4
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-
-#EXTINF:-1,Macau
-http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-
-#EXTINF:-1,AQUAMAN
-http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
-
-#EXTINF:-1,VENOM
-http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
-
-#EXTINF:-1,BUMBLEE
-http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
-
-#EXTINF:-1,THE NIGHT COMES FOR US
-http://cdn0-a.production.vidio.static6.com/uploads/1528364/ets-nightcome-68ae-b1600.mp4.m3u8
-
-#EXTINF:-1,MORTAL ENGINES
-http://cdn0-a.production.vidio.static6.com/uploads/1571909/ets-1-20kangmor-a7e4-b900.mp400004.ts
-
-#EXTINF:-1,MUNAFIK
-http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
-
-#EXTINF:-1,Ashiil TV Pekanbaru
-http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
-
-#EXTINF:-1,FASHION MIDNIGHT
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1,FASHION HD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1,FASHION HD2
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1,BBS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-
-#EXTINF:-1,HIDUP TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-
-#EXTINF:-1,Al Quran Al Kareem TV
-http://rr2.dens.tv/s/s28/index.m3u8
-
-#EXTINF:-1,Al Sunnah Al Nabawiyah TV
-http://rr2.dens.tv/s/s27/index.m3u8
-
-#EXTINF:-1,Aqsha TV
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-
-#EXTINF:-1,Wesal TV Cipayung
-http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
-
-#EXTINF:-1,Surau TV Padang
-http://119.235.249.60:1935/surautv/live/playlist.m3u8
-
-#EXTINF:-1,Ahsan TV Cikarang
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1,Rodja TV Cileungsi
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
